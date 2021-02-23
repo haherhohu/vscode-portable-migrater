@@ -18,7 +18,7 @@
 
 It's hard to develop in a national institution😢
 
-Because it is internal/externally mandried, editor(vscode with extensions) updates are difficult on the internal network;
+Because it is internal/externally separated, editor(vscode with extensions) updates are difficult on the internal network;
 I've made one.
 
 How to use: (Windows only)

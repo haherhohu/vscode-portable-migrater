@@ -30,3 +30,5 @@ How to use: (Windows only)
 ## reference
 
 https://code.visualstudio.com/docs/editor/portable
+
+Please use it freely

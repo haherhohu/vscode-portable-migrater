@@ -33,8 +33,8 @@ mkdir !userdatadir!
 mkdir !extensionsdir!
 
 rem copy all
-xcopy %APPDATA%\Code\ !userdatadir! /S /Y
-xcopy %USERPROFILE%\.vscode\extensions !extensionsdir! /S /Y
+xcopy %APPDATA%\Code\ !userdatadir! /y /h /s /e
+xcopy %USERPROFILE%\.vscode\extensions !extensionsdir! /y /h /s /e
 
 echo !targetdir! > !datadir!\vscode_version.txt
 echo end of process
